@@ -1,4 +1,4 @@
-Student,Attendance_Percent,Study_Hours_Per_Day,Maths,Science,English,Total_Marks,Average_Marks,Result
+Student,Attendance_Percent,Study_Hours_Per_Day,Maths,java,HTML & CSS,Total_Marks,Average_Marks,Result
 Neelesh,95,2.0,56,55,75,186,62,Pass
 Divyansh,63,3.8,74,59,75,208,69.33,Pass
 Ruchir,82,0.6,25,26,35,86,28.67,Fail
