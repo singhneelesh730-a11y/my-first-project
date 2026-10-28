@@ -1,10 +1,10 @@
 Student,Attendance_Percent,Study_Hours_Per_Day,Maths,Science,English,Total_Marks,Average_Marks,Result
-Neelesh,95,2.0,56,55,75,186,55.33,Pass
+Neelesh,95,2.0,56,55,75,186,62,Pass
 Divyansh,63,3.8,74,59,75,208,69.33,Pass
 Ruchir,82,0.6,25,26,35,86,28.67,Fail
 Arpit,93,0.6,47,44,40,131,43.67,Pass
 Anas ,69,2.5,35,40,48,123,41.0,Pass
-Deeksha,76,1.8,75,51,44,170,35.0,Pass
+Deeksha,76,1.8,75,51,44,170,56.67,Pass
 Suhani,79,0.9,48,37,30,115,38.33,Fail
 Rajan,84,2.9,50,65,57,172,57.33,Pass
 Ekansh,95,3.3,72,60,56,188,62.67,Pass
