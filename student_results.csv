@@ -1,8 +1,8 @@
 Student,Attendance_Percent,Study_Hours_Per_Day,Maths,Science,English,Total_Marks,Average_Marks,Result
-Student_01,95,1.0,56,55,55,166,55.33,Pass
-Student_02,63,3.8,74,59,75,208,69.33,Pass
-Student_03,82,0.6,25,26,35,86,28.67,Fail
-Student_04,93,0.6,47,44,40,131,43.67,Pass
+Neelesh,95,1.0,56,55,55,166,55.33,Pass
+Divyansh,63,3.8,74,59,75,208,69.33,Pass
+Ruchir,82,0.6,25,26,35,86,28.67,Fail
+Arpit,93,0.6,47,44,40,131,43.67,Pass
 Student_05,69,2.5,35,40,48,123,41.0,Pass
 Student_06,76,1.8,40,33,32,105,35.0,Fail
 Student_07,79,0.9,48,37,30,115,38.33,Fail
